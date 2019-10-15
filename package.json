@@ -23,7 +23,7 @@
     "yarn": "^1.16.0"
   },
   "scripts": {
-    "start": "react-scripts start",
+    "start": "PORT=8587 react-scripts start",
     "build": "react-scripts build",
     "predeploy": "yarn run build",
     "deploy": "gh-pages -d build",
