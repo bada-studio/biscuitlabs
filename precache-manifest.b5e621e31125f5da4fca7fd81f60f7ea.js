@@ -1,39 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "16b0a04f89f804b37fe410a4edde8477",
+    "revision": "e78b118a92ecc32e564ee788fe5f4adb",
     "url": "/index.html"
   },
   {
-    "revision": "61141207d72f628dc45f",
-    "url": "/static/css/2.6c28d395.chunk.css"
+    "revision": "7b10e71d957dd7f9ade7",
+    "url": "/static/css/2.570983da.chunk.css"
   },
   {
-    "revision": "58cb06d5f07462e388dc",
-    "url": "/static/css/main.96be27af.chunk.css"
+    "revision": "ebe2b7c5b3064b718c3f",
+    "url": "/static/css/main.361d625d.chunk.css"
   },
   {
-    "revision": "61141207d72f628dc45f",
-    "url": "/static/js/2.2e666be9.chunk.js"
+    "revision": "7b10e71d957dd7f9ade7",
+    "url": "/static/js/2.dc25fd9c.chunk.js"
   },
   {
-    "revision": "58cb06d5f07462e388dc",
-    "url": "/static/js/main.e6cfc0f0.chunk.js"
+    "revision": "ebe2b7c5b3064b718c3f",
+    "url": "/static/js/main.bc42378c.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
     "url": "/static/js/runtime~main.a8a9905a.js"
-  },
-  {
-    "revision": "a15f369493c95ab232fc14b24a2f374f",
-    "url": "/static/media/EKicon.a15f3694.png"
-  },
-  {
-    "revision": "fc752239f058012c05f841f0e8422cce",
-    "url": "/static/media/KKicon.fc752239.png"
-  },
-  {
-    "revision": "ba6250cdf30f838519375f706c06a1d4",
-    "url": "/static/media/biscuit_04.ba6250cd.png"
   },
   {
     "revision": "13db00b7a34fee4d819ab7f9838cc428",
@@ -54,6 +42,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "e8c322de9658cbeb8a774b6624167c2c",
     "url": "/static/media/brand-icons.e8c322de.woff2"
+  },
+  {
+    "revision": "d69cd21b1f33a3c9be7d5fd3e24d6d0f",
+    "url": "/static/media/ek.d69cd21b.jpg"
   },
   {
     "revision": "9c74e172f87984c48ddf5c8108cabe67",
@@ -78,6 +70,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "faff92145777a3cbaf8e7367b4807987",
     "url": "/static/media/icons.faff9214.woff"
+  },
+  {
+    "revision": "19c76c278b525d8405848bde3ac928bd",
+    "url": "/static/media/ks.19c76c27.jpg"
   },
   {
     "revision": "701ae6abd4719e9c2ada3535a497b341",
