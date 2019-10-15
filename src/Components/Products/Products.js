@@ -6,7 +6,7 @@ import './Products.css';
 const Products = ({}) => (
     <div className="Products">
       <h1>OUR PRODUCTS</h1>
-      <div class="ProductDetailBox">
+      <div className="ProductDetailBox">
         <h2>EOS Knights</h2>
         <div className="Desc">Collect materials. Craft your own items.</div>
         <Image src={require('../../Images/ek.jpg')} className="TitleImage"/>

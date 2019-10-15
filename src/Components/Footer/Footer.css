@@ -1,13 +1,18 @@
 .Footer {
-    border-top: 1px solid #E7E7E7;
-    margin-top: 1.5rem;
-    padding: 2rem;
-    font-size: 1rem;
+    font-size: 1.25rem;
     text-align: left;
+
+    width: 100%;
+    max-width: 1280px;
+    margin: 0 auto;
+}
+
+.FooterBox {
+    padding: 4rem 1.5rem;
 }
 
 .FooterHeading {
-    margin: 0.5rem 0rem;
+    margin: 0.5rem 0;
 }
 
 .CompanyName {

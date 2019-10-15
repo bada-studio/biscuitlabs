@@ -49,13 +49,14 @@ class App extends Component {
             <Products/>
             <Partners/>
           </div>
+
+          <Footer
+              flagCode = {flagCode}
+              language = {language}
+              languageOptions = {this.languageOptions}
+              onChangeLang = {this.onChangeLang}
+          />
         </div>
-        <Footer
-            flagCode = {flagCode}
-            language = {language}
-            languageOptions = {this.languageOptions}
-            onChangeLang = {this.onChangeLang}
-        />
         <SimpleLoader />
       </div>
     );

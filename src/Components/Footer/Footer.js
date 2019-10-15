@@ -5,23 +5,15 @@ import './Footer.css';
 
 const Footer = ({language, flagCode, languageOptions, onChangeLang}) => (
     <div className="Footer">
+      <div className="FooterBox">
+        <div className="FooterHeading">
+          <div className="BizDesc">
 
-      <div className="FooterHeading">
-        <div className="BizDesc">
-          <div className="LangBox">
-            <i className={flagCode + " flag"}/>
-            <Dropdown
-                text={language}
-                inline
-                options={languageOptions}
-                onChange={onChangeLang}>
-            </Dropdown>
-
+            373 Gangnam-daero, Seocho-gu, Seoul, Korea<br/>
           </div>
-          373 Gangnam-daero, Seocho-gu, Seoul, Korea<br/>
-        </div>
-        <div className="CompanyName">
-          ©Biscuitlabs Co. Ltd.
+          <div className="CompanyName">
+            ©Biscuitlabs Co. Ltd.
+          </div>
         </div>
       </div>
     </div>
