@@ -2,66 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3a1c33e0-426b-40b5-937e-a9816d933e88" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Components/Abstract/Abstract.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Abstract/Abstract.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Mission/Mission.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Mission/Mission.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Partners/Partners.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Partners/Partners.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Products/Products.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Products/Products.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Config/StringBundle.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Services/StringBundleService.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/AccountBox/AccountBox.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/AccountBox/AccountBox.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Footer/Footer.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Footer/Footer.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Footer/Footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Footer/Footer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/GameInfoBox/GameInfoBox.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/GameInfoBox/GameInfoBox.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/PostWrapper/PostWrapper.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/PostWrapper/PostWrapper.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/ShopItem/ShopItem.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/ShopItem/ShopItem.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Config/Config.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Config/Config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Config/Config.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Config/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Config/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Containers/AlertBox/AlertBox.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Containers/DepositBox/DepositBox.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Containers/DepositBox/DepositBox.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Containers/HeadingBox/HeadingBox.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Containers/LeftNav/LeftNav.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Containers/LeftNav/LeftNav.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Containers/PurchaseLogBox/PurchaseLogBox.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Containers/PurchaseLogBox/PurchaseLogBox.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Containers/ShopItemList/ShopItemList.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Containers/TopNav/TopNav.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Containers/TopNav/TopNav.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Containers/TopNav/TopNav.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Containers/TopNav/TopNav.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Containers/WithdrawBox/WithdrawBox.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Containers/WithdrawBox/WithdrawBox.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Containers/WithdrawLogBox/WithdrawLogBox.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Containers/WithdrawLogBox/WithdrawLogBox.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Containers/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Containers/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Images/EKicon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Images/KKicon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Images/item1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Images/item2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Images/item3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Images/item4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Images/item5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Images/item6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Images/klaytn-w.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Images/klaytn.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Services/AccountService.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Services/ShopService.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Services/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Services/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Abstract/Abstract.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Abstract/Abstract.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -86,11 +28,20 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Components/Abstract/Abstract.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="50" selection-start-line="8" selection-start-column="50" selection-end-line="8" selection-end-column="50" />
+            <state relative-caret-position="90">
+              <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="30" lean-forward="true" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -133,15 +84,6 @@
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Containers/TopNav/TopNav.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
             </state>
           </provider>
         </entry>
@@ -235,6 +177,7 @@
         <option value="$PROJECT_DIR$/src/Components/Products/Products.css" />
         <option value="$PROJECT_DIR$/src/Components/Products/Products.js" />
         <option value="$PROJECT_DIR$/src/Components/Mission/Mission.js" />
+        <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/src/Components/Abstract/Abstract.js" />
       </list>
     </option>
@@ -351,10 +294,12 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -378,12 +323,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1571043856639</updated>
-      <workItem from="1571043858009" duration="8770000" />
+      <workItem from="1571043858009" duration="9149000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8770000" />
+    <option name="totallyTimeSpent" value="9149000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="492" y="105" width="1400" height="821" extended-state="0" />
@@ -621,6 +566,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="30" lean-forward="true" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Components/Abstract/Abstract.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -630,8 +582,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Components/Abstract/Abstract.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="50" selection-start-line="8" selection-start-column="50" selection-end-line="8" selection-end-column="50" />
+        <state relative-caret-position="90">
+          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
