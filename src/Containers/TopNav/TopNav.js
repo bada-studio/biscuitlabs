@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import { Icon } from "semantic-ui-react";
 import './TopNav.css';
 
 class TopNav extends Component {
@@ -13,16 +12,12 @@ class TopNav extends Component {
     return (
       <div>
         <div className='TopNavBox'>
-          <div className="TopNavL">
-            <button onClick={this.props.onClickSidebar} className='ui basic TopNavButton'>
-              <Icon name='bars' inverted/>
-            </button>
-          </div>
-
           <div className="TopNavC">
-            Games
+            <span className="Title">BISCUITLABS</span>
           </div>
           <div className="TopNavR">
+            <a href="#">Mission</a>
+            <a href="#">Product</a>
           </div>
         </div>
       </div>

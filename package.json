@@ -18,6 +18,7 @@
     "scatterjs-plugin-eosjs": "^1.5.1",
     "semantic-ui-css": "^2.4.1",
     "semantic-ui-react": "^0.86.0",
+    "sf": "^0.2.0",
     "sidenavjs": "^1.0.9",
     "yarn": "^1.16.0"
   },

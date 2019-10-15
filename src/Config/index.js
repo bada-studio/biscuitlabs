@@ -1,4 +1,3 @@
-const env = process.env.NODE_ENV || 'development';
-const cfg = require('./Config.' + env);
+const cfg = require('./Config');
 
 module.exports = cfg;

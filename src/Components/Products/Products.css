@@ -1,0 +1,44 @@
+.Products {
+    margin-top: 7rem;
+    padding: 2.5rem;
+    margin-bottom: 2rem;
+}
+
+.Products h1 {
+    font-size: 1.25rem;
+    font-weight: bold;
+    color: #5a30b5;
+    margin: 1rem 0 2rem 0;
+}
+
+.Products h2 {
+    font-size:1.5rem;
+    margin: 4rem 0 1rem 0;
+}
+
+.Products h3 {
+    font-size:1.25rem;
+    margin: 1rem 0 0rem 0;
+    color:#0d71bb;
+}
+
+.Products .Desc {
+    font-size:1.25rem;
+}
+
+.Products .TitleImage {
+    margin: 1.5rem 0;
+}
+
+.ProductDetailBox {
+    margin-bottom: 3rem;
+}
+
+.ProductDesc {
+    color:#AAA;
+    line-height: 100%;
+    margin-bottom: 1rem;
+    font-size:1.1rem;
+}
+
+

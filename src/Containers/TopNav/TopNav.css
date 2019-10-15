@@ -1,8 +1,5 @@
 .TopNavBox {
-    color: white;
-    font-size: 1.2rem;
-    text-align: center;
-    font-weight: 600;
+    color: black;
 
     display: -webkit-box;
     display: -moz-box;
@@ -20,14 +17,9 @@
     z-index: 1;
     position: fixed;
 
-    height:48px;
-    background-color: #313131;
-}
-
-.TopNavL {
-    min-width: 80px;
-    margin-left:0.4em;
-    text-align: left;
+    padding-top: 1.8rem;
+    height: 4.5rem;
+    background-color: rgba(255, 255, 255, 0.95);
 }
 
 .TopNavC {
@@ -35,18 +27,34 @@
     -moz-box-flex: 1;
     -webkit-flex: 1 1 auto;
     flex: 1 1 auto;
+    text-align: left;
+    margin-left:2rem;
+}
+
+.TopNavC .Title {
+    font-weight: bold;
+    color:#2bbbff;
 }
 
 .TopNavR {
-    min-width: 80px;
-    margin-right:1em;
+    min-width: 180px;
+    margin-right:2rem;
+    text-align: right;
+    font-weight: normal;
 }
 
-.TopNavButton {
-    background: transparent none!important;
-    font-weight: 400;
-    border:0;
+.TopNavR a {
+    color:#3c3c3c;
+    margin-left: 1.2rem;
+}
 
-    padding-left: 0.55em;
-    padding-right: 0.55em;
+
+@media ( min-width: 768px ) {
+    .TopNavC {
+        margin-left:4rem;
+    }
+
+    .TopNavR {
+        margin-right:4rem;
+    }
 }

@@ -1,0 +1,21 @@
+.Mission {
+    margin-top: 7rem;
+    padding: 2.5rem;
+    margin-bottom: 2rem;
+}
+
+.Mission h1 {
+    font-size:3.8rem;
+    margin-bottom: 1.5rem;
+    line-height: 110%;
+}
+
+.Mission h2 {
+    font-size:1.35em;
+    margin: 1.5rem 0 0.5rem 0;
+}
+
+.Mission .Desc {
+    line-height: 180%;
+    margin-bottom: 1.5rem;
+}

@@ -1,0 +1,16 @@
+.Partners {
+    margin-top: 7rem;
+    padding: 2.5rem;
+    margin-bottom: 2rem;
+}
+
+.Partners h1 {
+    font-size: 1.25rem;
+    font-weight: bold;
+    color: #5a30b5;
+}
+
+.Partners .Desc {
+    line-height: 180%;
+    margin-bottom: 1.5rem;
+}

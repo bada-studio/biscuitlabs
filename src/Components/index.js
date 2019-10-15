@@ -1,15 +1,13 @@
-import PostWrapper from './PostWrapper/PostWrapper';
+import Abstract from './Abstract/Abstract';
+import Mission from './Mission/Mission';
+import Products from './Products/Products';
 import Footer from './Footer/Footer';
-import ShopItem from './ShopItem/ShopItem';
-import AccountBox from './AccountBox/AccountBox';
-import GameInfoBox from './GameInfoBox/GameInfoBox';
-import SimpleLoader from '../Containers/SimpleLoader/SimpleLoader';
+import Partners from "./Partners/Partners";
 
 export {
+    Abstract,
+    Mission,
+    Products,
+    Partners,
     Footer,
-    PostWrapper,
-    AccountBox,
-    ShopItem,
-    GameInfoBox,
-    SimpleLoader
 };
