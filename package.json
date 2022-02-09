@@ -20,7 +20,7 @@
     "semantic-ui-react": "^0.86.0",
     "sf": "^0.2.0",
     "sidenavjs": "^1.0.9",
-    "yarn": "^1.16.0"
+    "yarn": "^1.22.0"
   },
   "scripts": {
     "start": "PORT=8587 react-scripts start",
